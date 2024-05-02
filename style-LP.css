@@ -8,7 +8,6 @@
 .nav{
     justify-content: center;
     align-items: center;
-    /* margin: 20px 100px 20px 100px */
 }
 .row{
     display: flex;
@@ -39,9 +38,7 @@ body > section:last-child{
     height: 40px;
     margin-right: 16px;
 }
-.app-logo-conteiner{
-   
-}
+
 #app-title{
     font-weight: bolt;
     font-size: 1.88em;
@@ -79,9 +76,7 @@ body > section:last-child{
     flex-direction: row;
     text-align: center;
 }
-.primary-button > span{
-    
-}
+
 .button-link{
     color: #02897a;
     font-weight: 600;
